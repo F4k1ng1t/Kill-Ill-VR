@@ -185,7 +185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destinationPoint: {fileID: 8058880501440440744}
-  wanderRadius: 50
+  wanderRadius: 5
   movementChance: 3
 --- !u!136 &7890597255820957878
 CapsuleCollider:
